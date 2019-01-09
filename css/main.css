@@ -571,7 +571,7 @@ main .img-wrapper {
 
     @media (min-width:40em) {
     .logo {
-        background: url(cse_black.svg) top right transparent no-repeat;
+        background: url(cse-black.svg) top right transparent no-repeat;
         height: 40px;
         width: 512px;
         position: fixed;
