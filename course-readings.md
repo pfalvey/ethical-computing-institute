@@ -1,6 +1,7 @@
 ---
 layout: subpage
-title: CSE 40175 / CDT 40630 Syllabus
+title: Course Readings
 image: css/nd-logo.png
 home: true
+subpage: true
 ---
