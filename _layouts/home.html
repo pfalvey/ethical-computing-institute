@@ -7,8 +7,7 @@
 	<nav class="grid">
 	    <ul>
 	        {% for p in site.pages %}
-	        {% if p.home %}
-	        {% else %}
+	        {% if p.subpage %}
 	        <li>
 	        	<a href="{{ site.baseurl }}{{ p.url }}">
 		        <div class="img-wrapper">
@@ -17,6 +16,7 @@
 		        <h2>{{ p.title }}</h2>
 		        </a>
 	        </li>
+	        {% else %}
 	        {% endif %}
 	        {% endfor %}
 	    </ul>

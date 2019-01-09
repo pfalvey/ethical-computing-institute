@@ -2,6 +2,7 @@
 layout: subpage
 title: Ethics of Care
 image: css/gilligan.png
+subpage: true
 ---
 
 ## Ingredients

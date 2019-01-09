@@ -2,6 +2,7 @@
 layout: subpage
 title: Deontological Ethics
 image: css/kant.png
+subpage: true
 ---
 
 ## Ingredients

@@ -2,6 +2,7 @@
 layout: subpage
 title: Egoist Ethics
 image: css/sidgwick.png
+subpage: true
 ---
 
 ## Ingredients

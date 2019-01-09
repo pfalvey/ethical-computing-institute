@@ -2,6 +2,7 @@
 layout: subpage
 title: Legalist Ethics
 image: css/yang.png
+subpage: true
 ---
 ## Ingredients
 

@@ -2,6 +2,7 @@
 layout: subpage
 title: Virtue Ethics
 image: css/aristotle.png
+subpage: true
 ---
 
 ## Ingredients

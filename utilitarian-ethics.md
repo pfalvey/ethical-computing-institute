@@ -2,6 +2,7 @@
 layout: subpage
 title: Utilitarian Ethics
 image: css/bentham.png
+subpage: true
 ---
 
 ## Ingredients
