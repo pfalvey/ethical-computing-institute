@@ -1,5 +1,5 @@
 ---
 layout: home
-title: Global Computing Institute
+title: Ethical Computing Institute
 home: true
 ---
