@@ -314,14 +314,14 @@ main {
     }
 
 .container {
-    background: url("circuit.png") #E5EAEE;
+    background: url("white-waves.png") #E5EAEE;
     width: 100%;
     float: left;
     }
 
     @media (min-width:40em) {
     .container {
-        background: url("circuit.png") #E5EAEE fixed;
+        background: url("white-waves.png") #E5EAEE fixed;
         }
     }
 
