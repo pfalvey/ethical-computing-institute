@@ -4,14 +4,5 @@ title: Legalist Ethics
 image: css/yang.png
 subpage: true
 ---
-## Ingredients
-
-* 175g plain flour
-* 90g brown sugar
-* 50g unsalted butter, diced, at room temperature
-* 2 tbsp golden syrup
-* 1 egg, beaten
-* 1 tsp ground ginger
-* 1 tsp cinnamon
-* 1 tsp bicarbonate of soda
-* Icing sugar to dust
+## “If in a country there are the following ten evils: rites, music, odes, history, virtue, moral culture, filial piety, brotherly duty, integrity and sophistry, the ruler cannot make the people fight and dismemberment is inevitable; and this brings extinction in its train.”
+### - Shang Yang, *The Book of Lord Shang*

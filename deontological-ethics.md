@@ -5,10 +5,5 @@ image: css/kant.png
 subpage: true
 ---
 
-## Ingredients
-
-* 1 ¼ cups white flour
-* ½ cup unsalted butter, cubed and chilled
-* 3 tbsp water
-* 2 tbsp granulated sugar (if you’re using the crust for something sweet)
-* ½-1 tsp salt
+## “Act in such a way that you treat humanity, whether in your own person or in the person of any other, never merely as a means to an end, but always at the same time as an end.”
+### ― Immanuel Kant, *Grounding for the Metaphysics of Morals* 

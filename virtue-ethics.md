@@ -5,10 +5,6 @@ image: css/aristotle.png
 subpage: true
 ---
 
-## Ingredients
+## “One swallow does not make a summer, neither does one fine day; similarly one day or brief time of happiness does not make a person entirely happy.”
+### ― Aristotle, *The Nicomachean Ethics*
 
-* 225g / 8 oz unsalted butter at room temperature
-* 750g / 1 1/2 lb icing (powdered) sugar, sifted
-* Grated peel of a fresh, washed orange (use organic/homegrown where possible)
-* 2 tbsp orange juice
-* 2 tbsp brandy
