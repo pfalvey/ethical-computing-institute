@@ -6,8 +6,8 @@ home: true
 subpage: true
 ---
 
-| Tables   |      Are      |  Cool |
-|----------|:-------------:|------:|
-| col 1 is |  left-aligned | $1600 |
-| col 2 is |    centered   |   $12 |
-| col 3 is | right-aligned |    $1 |
+| Date   |  Readings   |  Assignments |
+|:------:|:-----------:|:------------:|
+| 01/15  | [Overview of Ethical Frameworks](course-readings#overview) | - |
+| 01/17  | [Codes of Ethics in Computer Science](course-readings#codes-of-ethics) | - |
+| 01/22  | - | [Presentation of Ethical Framework](course-assignments#framework-presentation) |
