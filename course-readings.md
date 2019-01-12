@@ -20,3 +20,6 @@ subpage: true
 + [Institute of Electrical and Electronics Engineers Code of Ethics](https://www.ieee.org/about/corporate/governance/p7-8.html "IEEE Code of Ethics")
 + [Association for Computing Machinery Code of Ethics](https://ethics.acm.org/code-of-ethics/ "ACM Code of Ethics")
 + [Institute for the Certification of Computing Professionals Code of Ethics](https://www.iccp.org/code-of-ethics.html "ICCP Code of Ethics")
+
+## Diversity and Immigration Issues in Technology
++ 
