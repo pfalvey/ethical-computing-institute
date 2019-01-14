@@ -70,7 +70,7 @@ subpage: false
 + Discuss the perspective of your ethical framework as it applies to the above two issues.
 
 ### Instructions:
-+ Use the fork of the course GitHub repository you set up in [Website Post 1](course-assignments#website-post-1] to commit your Git changes.
++ Use the fork of the course GitHub repository you set up in [Website Post 1](course-assignments#website-post-1) to commit your Git changes.
   + Make a pull request to the original repository by the due date.
 + Write a summary and response to the controversy surrounding H-1B visas.
 + Write a response to the [Google internal memo](https://gizmodo.com/exclusive-heres-the-full-10-page-anti-diversity-screed-1797564320 "The Full 10-Page Anti-Diversity Screed Circulating Internally at Google").
