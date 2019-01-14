@@ -34,7 +34,7 @@ __Participation__ (1 in-class presentation, 12 in-class policy proposals) – 30
 
 __Final Exam__ (take home exam, due at the end of the final exam period) – 10%
 
-__Grading Policy:__  No late assignments will be accepted except under extenuating circumstances which must be made known 24 hours in advance of the deadline. No credit will be given for missed participation under any circumstances. If you are not in class to participate in discussion, you do not receive points. Specific details of assignments and their due dates are found on the course website. Each assignment will be graded and returned within two weeks of its due date. This course uses the standard University of Notre Dame grade scale.
+__Grading Policy:__  No late assignments will be accepted except under extenuating circumstances which must be made known 24 hours in advance of the deadline. No credit will be given for missed participation under any circumstances. If you are not in class to participate in discussion, you do not receive points. Specific details of assignments and their due dates are found on the course website. Each assignment will be graded and returned within two weeks following its due date. This course uses the standard University of Notre Dame grade scale.
 
 #### Course Policies:
 1.  __Attendance__ is important to this discussion-based class. Short reading quizzes will be given periodically to keep track of attendance and will go toward the participation grade.
