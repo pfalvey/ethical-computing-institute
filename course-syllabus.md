@@ -6,7 +6,7 @@ home: true
 subpage: true
 ---
 
-# Ethical and Professional Issues – CSE 40175 / CDT 40630
+## Ethical and Professional Issues – CSE 40175 / CDT 40630
 ### Spring Semester 2019 DeBartolo Hall 102 (T, R - 15:30 - 16:45)
 
 __Instructor:__  Nathaniel Kremer-Herman ([nkremerh@nd.edu](mailto:nkremerh@nd.edu)).
