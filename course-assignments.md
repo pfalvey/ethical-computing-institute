@@ -42,7 +42,7 @@ subpage: false
   + Be sure to watch out for merge conflicts! You should only be editing your ethical framework page.
   + Added style and flair is appreciated. Remember, your peers will be able to look at your page!
 + Familiarize yourself with GitHub Pages (including using Jekyll and Markdown to create webpages).
-  + Look for tutorials online for help! If you are entirely new to GitHub or HTML/CSS/Markdown, please feel free to visit office hours.
+  + Look for tutorials online for help (like [this one](http://24ways.org/2013/get-started-with-github-pages/ "GitHub Pages Tutorial"))! If you are entirely new to GitHub or HTML/CSS/Markdown, please feel free to visit office hours.
 + Write a general statement of purpose for your ethical framework as it relates to ethical and professional issues in computer science.
 + Write a response to *each* of the three codes of ethics detailing the similarities and differences between them and your statement of purpose.
 + The general statement and each of the three codes of ethics responses should be distinctly separate on the webpage.
@@ -52,9 +52,9 @@ subpage: false
   + Remember this GitHub repository is public. Keep your commit messages appropriate.
 
 ### Requirements:
-+ Your statement of purpose (~700 words) must:
-  + A description of what makes an action ethical. (5 Points)
-  + An answer to the question: What triggers the need to evaluate how ethical an action is? (5 Points)
++ Your statement of purpose (~700 words) must include:
+  + A description of what makes an action ethical according to your framework. (5 Points)
+  + With regard to your framework, an answer to the question: What triggers the need to evaluate how ethical an action is? (5 Points)
   + Discuss the predisposition people have to act ethically according to your framework (if this is not stated, explain why that may be). (5 Points)
   + A brief summary of three issues in computer technology you believe your ethical framework would have a lot to say about (these do not necessarily have to be topics covered in class). (10 Points)
 + Each of the three codes of ethics responses (~300 words) must:

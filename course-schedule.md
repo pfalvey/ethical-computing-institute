@@ -6,20 +6,38 @@ home: true
 subpage: true
 ---
 
-| Week   | Topic/Readings                                    | Tuesday                                                  | Thursday                                      |
-|:--------:|:------------------------------------------:|:----------------------------------------------------------:|:-----------------------------------------------:|
-| 15-Jan | [Ethical Frameworks](course-readings#overview)       | Introduction and Overview of Ethical Frameworks          | [Codes of Ethics](course-readings#codes-of-ethics)           |
-| 22-Jan | [Ethical Frameworks](course-readings#overview)                       | [Student Presentations of Ethical Frameworks](course-assignments#framework-presentation)              | Board: Adopting a Code of Ethics     <br> [**Website Post 1 Due**](course-assignments#website-post-1)         |
-| 29-Jan | Diversity in Tech                      | Diversity / Immigration Issues in Tech                   | Board: Diversity Issues in Tech        <br> **Website Post 2 Due**       |
-| 5-Feb  | Corporate Ethical Responsibility         | Data Privacy / Corporate Personhood / Antitrust Measures | Board: Personal Big Data        <br> **Website Post 3 Due**              |
-| 12-Feb | IBM and Nazis                            | IBM and Nazis / Muslim Registry Movement                 | Board: Corporate Malfeasance         <br> **Website Post 4 Due**         |
-| 19-Feb | Net Neutrality                           | Net Neutrality / Online Censorship / Echo Chambers       | Board: Internet as Public Utility      <br> **Website Post 5 Due**       |
-| 26-Feb | Job Automation                           | McDonaldization / Job Automation                         | Board: Fast Food Job Automation         <br> **Website Post 6 Due**      |
-| 5-Mar  | Weapons Development                      | Manhattan Project / Raytheon / Employee Determinism      | Board: From Microwaves to Missile Systems   <br> **Website Post 7 Due**  |
-| 12-Mar | **Midterm Shuffle**                          | **Spring Break** <br> (Check Email for New Group Form)            | **Spring Break** <br> (Check Email for New Group Form) |
-| 19-Mar | Internet of Things / Pervasive Computing | Internet of Things / Targeted Ads                        | Board: Intrusive Advertising        <br> **Website Post 8 Due**          |
-| 26-Mar | Government Surveillance                  | Patriot Act / Beijing Social Credit Score                | Board: Social Credit Score        <br> **Website Post 9 Due**            |
-| 2-Apr  | Mission Critical Systems                 | Therac-25 / Challenger Incident                          | Board: Investigating a Critical Bug           <br> **Website Post 10 Due**
-| 9-Apr  | Whistleblowing                           | Chelsea Manning / Edward Snowden                         | Board: Protections for Whistleblowers      <br> **Website Post 11 Due**   |
-| 16-Apr | Hackers / Piracy                         | DMCA / Piracy / Hackers                                  | Board: The Corsairs of Pirate Bay        <br> **Website Post 12 Due**     |
-| 23-Apr | Course Wrap-Up                           | Board: Final Board Meeting and Discussion                | Course Roadmap and Course Review              |
+|  Date  |   Subject   |  Readings   |  Assignments |
+|:------:|:-----------:|:-----------:|:------------:|
+| 15-Jan | Overview of Ethical Frameworks | [Overview of Ethical Frameworks](course-readings#overview) | - |
+| 17-Jan | Codes of Ethics in Computer Science | [Codes of Ethics in Computer Science](course-readings#codes-of-ethics) | - |
+| 22-Jan | Student Presentations of Ethical Frameworks | - | [Presentation of Ethical Framework](course-assignments#framework-presentation) |
+| 24-Jan | Codes of Ethics in Computer Science | [Codes of Ethics in Computer Science](course-readings#codes-of-ethics) | [Website Post 1](course-assignments#website-post-1) |
+| 29-Jan | Diversity and Immigration Issues in Tech | [Diversity and Immigration Issues in Tech](course-readings#diversity-and-immigration) | - |
+| 31-Jan | Diversity and Immigration Issues in Tech | [Diversity and Immigration Issues in Tech](course-readings#diversity-and-immigration) | [Website Post 2](course-assignments#website-post-2) |
+| 05-Feb | Corporate Ethical Responsibility | [Corporate Ethical Responsibility](course-readings#corporate-ethical-responsibility) | - |
+| 07-Feb | Managing Big Data | [Corporate Ethical Responsibility](course-readings#corporate-ethical-responsibility) | [Website Post 3](course-assignments#website-post-3) |
+| 12-Feb | Corporate Malfeasance | [Corporate Malfeasance](course-readings#corporate-malfeasance) | - |
+| 14-Feb | Corporate Malfeasance | [Corporate Malfeasance](course-readings#corporate-malfeasance) | [Website Post 4](course-assignments#website-post-4) |
+| 19-Feb | Fight for the Internet | [Fight for the Net](course-readings#fight-for-the-net) | - |
+| 21-Feb | Internet as Public Utility | [Fight for the Net](course-readings#fight-for-the-net) | [Website Post 5](course-assignments#website-post-5) |
+| 26-Feb | Job Automation | [Job Automation](course-readings#job-automation) | - |
+| 28-Feb | Fast Food Job Automation | [Job Automation](course-readings#job-automation) | [Website Post 6](course-assignments#website-post-6) |
+| 05-Mar | Weapons Development | [Weapons Development](course-readings#weapons-development) | - |
+| 07-Mar | Employee Determinism | [Weapons Development](course-readings#weapons-development) | [Website Post 7](course-assignments#website-post-7) |
+| 12-Mar | Midterm Shuffle | - | Check Email for New Group Form |
+| 14-Mar | Midterm Shuffle | - | Check Email for New Group Form |
+| 19-Mar | Internet of Things | [Internet of Things](course-readings#internet-of-things) | - |
+| 21-Mar | Intrusive Advertising | [Internet of Things](course-readings#internet-of-things) | [Website Post 8](course-assignments#website-post-8) |
+| 26-Mar | Government Surveillance | [Government Surveillance](course-readings#government-surveillance) | - |
+| 28-Mar | Social Credit Score | [Government Surveillance](course-readings#government-surveillance) | [Website Post 9](course-assignments#website-post-9) |
+| 02-Apr | Mission Critical Systems | [Mission Critical Systems](course-readings#mission-critical-systems) | - |
+| 04-Apr | Critical Bugs | [Mission Critical Systems](course-readings#mission-critical-systems) | [Website Post 10](course-assignments#website-post-10) |
+| 09-Apr | Whistleblowing | [Whistleblowing](course-readings#whistleblowing) | - |
+| 11-Apr | Protections for Whistleblowers | [Whistleblowing](course-readings#whistleblowing) | [Website Post 11](course-assignments#website-post-11) |
+| 16-Apr | Hackers and Piracy | [Hackers and Piracy](course-readings#hackers-and-piracy) | - |
+| 18-Apr | Pirate Bay | [Hackers and Piracy](course-readings#hackers-and-piracy) | [Website Post 12](course-assignments#website-post-12) |
+| 23-Apr | Course Wrap-Up | - | - |
+| 25-Apr | Course Overview | - | [Final Exam](course-assignments#final-exam) |
+| 30-Apr | No Class | - | - |
+| 02-May | No Class | - | - |
+| 07-May | Final Exam (Provisional Date) | - | Final Exam Due by End of Exam Period |
