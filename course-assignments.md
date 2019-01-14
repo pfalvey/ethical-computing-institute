@@ -52,15 +52,47 @@ subpage: false
   + Remember this GitHub repository is public. Keep your commit messages appropriate.
 
 ### Requirements:
-+ Your statement of purpose (~700 words) must include:
++ Your statement of purpose (~700 Words) must include:
   + A description of what makes an action ethical according to your framework. (5 Points)
   + With regard to your framework, an answer to the question: What triggers the need to evaluate how ethical an action is? (5 Points)
   + Discuss the predisposition people have to act ethically according to your framework (if this is not stated, explain why that may be). (5 Points)
   + A brief summary of three issues in computer technology you believe your ethical framework would have a lot to say about (these do not necessarily have to be topics covered in class). (10 Points)
-+ Each of the three codes of ethics responses (~300 words) must:
++ Each of the three codes of ethics responses (~300 Words) must:
   + Briefly summarize the similarities between the code of ethics and your ethical framework. (4 Points)
   + Briefly summarize the differences between the code of ethics and your ethical framework. (4 Points)
   + State something that is *missing* from the code of ethics which your ethical framework can provide. (2 Point)
 + The webpage is well-formatted, readable, and without merge conflicts in the GitHub repository (style points). (5 Points)
 
+## Website Post 2 (60 Points) <a name="website-post-2">
+### Purpose:
++ Identify diversity issues in computer science.
++ Identify different perspectives regarding the availability of H-1B visas.
++ Discuss the perspective of your ethical framework as it applies to the above two issues.
+
+### Instructions:
++ Use the same fork of the course GitHub repository to commit changes, making a pull request to the original repository by the due date.
++ Write a summary and response to the controversy surrounding H-1B visas.
++ Write 
+
+### Due Date:
++ Your pull request to the original GitHub repository is due when class starts (15:30) on 01/31/2019.
+
+### Requirements:
++ Your summary and response (~1,000 Words) must include:
+  + A brief summary of arguments *in favor* of the H-1B visa system. (5 Points)
+  + A brief summary of arguments *in opposition* to the the H-1B visa system. (5 Points)
+  + A response containing insights your ethical framework may provide to the controversy. (10 Points)
++ Your response to the [Google internal memo](https://gizmodo.com/exclusive-heres-the-full-10-page-anti-diversity-screed-1797564320 "The Full 10-Page Anti-Diversity Screed Circulating Internally at Google") (~500 Words) must include:
+  + A brief summary of the content of the memo. (5 Points)
+  + A discussion of the aspects in the memo your ethical framework finds either valid or ethical. (5 Points)
+  + A discussion of the aspects in the memo your ethical framework finds either invalid or unethical. (5 Points)
++ Your analysis of gender bias in tech (~500 Words) must include:
+  + A brief summary of outstanding gender issues. (5 Points)
+  + A response to each issue from the perspective of your ethical framework. (5 Points)
+    + If your framework does not have any particular insight for an issue, provide your own while matching the sentiments of your framework as best as you can.
++ Your analysis of race and ethinicity biases in tech (~500 Words) must include:
+  + A brief summary of outstanding race and ethnicity issues. (5 Points)
+  + A response to each issue from the perspective of your ethical framework. (5 Points)
+    + If your framework does not have any particular insight for an issue, provide your own while matching the sentiments of your framework as best as you can.
++ The webpage is well-formatted, readable, and without merge conflicts in the GitHub repository (style points). (5 Points)
 

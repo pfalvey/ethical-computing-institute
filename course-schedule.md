@@ -12,8 +12,8 @@ subpage: true
 | 17-Jan | Codes of Ethics in Computer Science | [Codes of Ethics in Computer Science](course-readings#codes-of-ethics) | - |
 | 22-Jan | Student Presentations of Ethical Frameworks | - | [Presentation of Ethical Framework](course-assignments#framework-presentation) |
 | 24-Jan | Codes of Ethics in Computer Science | [Codes of Ethics in Computer Science](course-readings#codes-of-ethics) | [Website Post 1](course-assignments#website-post-1) |
-| 29-Jan | Diversity and Immigration Issues in Tech | [Diversity and Immigration Issues in Tech](course-readings#diversity-and-immigration) | - |
-| 31-Jan | Diversity and Immigration Issues in Tech | [Diversity and Immigration Issues in Tech](course-readings#diversity-and-immigration) | [Website Post 2](course-assignments#website-post-2) |
+| 29-Jan | Diversity and Immigration Issues in Tech | [Diversity and Immigration Issues in Tech](course-readings#diversity-and-immigration-issues) | - |
+| 31-Jan | Diversity and Immigration Issues in Tech | [Diversity and Immigration Issues in Tech](course-readings#diversity-and-immigration=issues) | [Website Post 2](course-assignments#website-post-2) |
 | 05-Feb | Corporate Ethical Responsibility | [Corporate Ethical Responsibility](course-readings#corporate-ethical-responsibility) | - |
 | 07-Feb | Managing Big Data | [Corporate Ethical Responsibility](course-readings#corporate-ethical-responsibility) | [Website Post 3](course-assignments#website-post-3) |
 | 12-Feb | Corporate Malfeasance | [Corporate Malfeasance](course-readings#corporate-malfeasance) | - |
