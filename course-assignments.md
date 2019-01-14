@@ -70,9 +70,12 @@ subpage: false
 + Discuss the perspective of your ethical framework as it applies to the above two issues.
 
 ### Instructions:
-+ Use the same fork of the course GitHub repository to commit changes, making a pull request to the original repository by the due date.
++ Use the fork of the course GitHub repository you set up in [Website Post 1](course-assignments#website-post-1] to commit your Git changes.
+  + Make a pull request to the original repository by the due date.
 + Write a summary and response to the controversy surrounding H-1B visas.
-+ Write 
++ Write a response to the [Google internal memo](https://gizmodo.com/exclusive-heres-the-full-10-page-anti-diversity-screed-1797564320 "The Full 10-Page Anti-Diversity Screed Circulating Internally at Google").
++ Write an analysis of gender bias issues in tech.
++ Write an analysis of race and ethnicity issues in tech.
 
 ### Due Date:
 + Your pull request to the original GitHub repository is due when class starts (15:30) on 01/31/2019.
@@ -87,11 +90,11 @@ subpage: false
   + A discussion of the aspects in the memo your ethical framework finds either valid or ethical. (5 Points)
   + A discussion of the aspects in the memo your ethical framework finds either invalid or unethical. (5 Points)
 + Your analysis of gender bias in tech (~500 Words) must include:
-  + A brief summary of outstanding gender issues. (5 Points)
+  + A brief summary of outstanding gender issues in tech. (5 Points)
   + A response to each issue from the perspective of your ethical framework. (5 Points)
     + If your framework does not have any particular insight for an issue, provide your own while matching the sentiments of your framework as best as you can.
 + Your analysis of race and ethinicity biases in tech (~500 Words) must include:
-  + A brief summary of outstanding race and ethnicity issues. (5 Points)
+  + A brief summary of outstanding race and ethnicity issues in tech. (5 Points)
   + A response to each issue from the perspective of your ethical framework. (5 Points)
     + If your framework does not have any particular insight for an issue, provide your own while matching the sentiments of your framework as best as you can.
 + The webpage is well-formatted, readable, and without merge conflicts in the GitHub repository (style points). (5 Points)
