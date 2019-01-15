@@ -7,8 +7,25 @@
 	
 	<nav class="grid">
 	    <ul>
+
+            {% for p in site.pages %}
+	        {% if p.coursepage and p.subpage %}
+	        <li>
+	        	<a href="{{ site.baseurl }}{{ p.url }}">
+		        <div class="img-wrapper">
+	        		<img src="{{ p.image }}" />
+	        	</div>
+		        <h2>{{ p.title }}</h2>
+		        </a>
+	        </li>
+	        {% else %}
+	        {% endif %}
+	        {% endfor %}
+
+            <hr>
+
 	        {% for p in site.pages %}
-	        {% if p.subpage %}
+	        {% if p.subpage and p.coursepage == false %}
 	        <li>
 	        	<a href="{{ site.baseurl }}{{ p.url }}">
 		        <div class="img-wrapper">

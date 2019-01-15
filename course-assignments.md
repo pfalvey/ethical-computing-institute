@@ -4,6 +4,7 @@ title: Course Assignments
 image: css/nd-logo.png
 home: true
 subpage: false
+coursepage: true
 ---
 
 ## Student Presentation of Ethical Framework (30 Points) <a name="framework-presentation"></a>
@@ -15,9 +16,10 @@ subpage: false
 ### Instructions:
 + Put together a slide deck of up to 10 slides and submit it as a PDF to the instructor via email.
 + Give a 10 minute presentation of your slides as a group with 2 minutes of questions after.
-+ How you divide the work and presentation is up to your group, but remember:
-  + Everyone must participate in the assignment in some way.
-  + Your group presentation will last only 10 minutes.
++ Because your group will have 8-10 people, it may be smart to divide up the work.
+  + How you divide the work and presentation is up to your group, but remember: your group presentation will last only 10 minutes.
+  + One way of doing this is to have half your group focus on creating and presenting slides while the other half proofreads, then switch off so the other half of the group does the heavy lifting for the *next* assignment and so on.
+  + Even if a group member is not responsible for putting together the slides, make sure everyone is on the same page regarding what your ethical framework is all about.
 
 ### Due Date:
 + Your slides are due when class starts (15:30) on 01/22/2019.

@@ -4,6 +4,7 @@ title: Course Syllabus
 image: css/nd-logo.png
 home: true
 subpage: true
+coursepage: true
 ---
 
 ## Ethical and Professional Issues – CSE 40175 / CDT 40630
@@ -16,6 +17,8 @@ __Teaching Assistant:__  Mark Horeni ([mhoreni@nd.edu](mailto:mhoreni@nd.edu)).
 __Office Hours:__  308 Cushing Hall of Engineering (W, F 13:30-15:30).
 
 __Appointments Outside of Office Hours:__  Email at least 24 hours beforehand.
+
+__Communication Expectations:__  The instructor can be expected to reply to emails sent during the work day (09:00-17:00) within 24 hours. Emails sent outside of these hours or during the weekend may not receive a reply until the next work day.
 
 __Course description:__ This course seeks to develop a solid foundation for reasoning about ethical, professional, and social issues that arise in the context of computer science and engineering. Emphasis is placed on identifying appropriate legal, professional, and ethical contexts and on applying sound critical thinking skills to a problem. Topics covered include professional codes of ethics, safety-critical systems, whistleblowing, privacy and surveillance, freedom of speech, intellectual property, and cross-cultural issues. This course relies heavily on case studies of real-world incidents.
 #### Student Learning Outcomes:
@@ -46,7 +49,7 @@ __Course Storyboard:__  Throughout this course, we will act as a fictional profe
 
 Each Thursday, we will hold a mock executive board meeting in which a scenario and related question will be posed to the class. Each ethical framework interest group will have time to discuss among themselves and present their response to the question as well as a final policy proposal regarding the scenario choosing from one of these three actions: censure an actor in the scenario (someone made the wrong choice), commend an actor in the scenario (someone made the right choice), or present a proposal to change the code of ethics of our organization in response to the scenario (our frame of reference is wrong).
 
-You may not agree with the viewpoint of the interest group you are assigned at the beginning of the semester, and that is okay. Do it justice. On the ninth week of the semester (during Spring Break), we will have a “midterm shuffle” in which you will move to a group you agree with or one you disagree with but find interesting. Either way, you will be representing a different ethical framework for the second half of the semester. One of the goals of this course is to effectively voice the perspectives and concerns of multiple points of view.
+You may not agree with the viewpoint of the interest group you are assigned at the beginning of the semester, and that is okay. Do it justice. On the ninth week of the semester (during Spring Break), we will have a “midterm shuffle” in which you will move to a group you agree with or one you disagree with but find interesting. Either way, you will be representing a different ethical framework for the second half of the semester. One of the goals of this course is to effectively voice the perspectives and concerns of multiple points of view. By the end of this course, you will become an expert in applying *two* different ethical framework to ethical and professional issues in computer technology.
 
 __Schedule Changes:__ Any changes made to the course schedule will be noted on the course website at least one week in advance. An email will be sent to the class when schedule changes are made.
 

@@ -7,7 +7,21 @@
     	    </a>
     	</li>
         {% for p in site.pages %}
-        	{% if p.subpage %}
+        	{% if p.subpage and p.coursepage %}
+        <li>
+        	<a {% if p.url == page.url %}class="active"{% endif %} href="{{ site.baseurl }}{{ p.url }}">
+            <div class="img-wrapper">
+        		<img src="{{ p.image }}" />
+        	</div>
+            {{ p.title }}
+            </a>
+        </li>
+            {% else %}
+        {% endif %}
+        {% endfor %}
+
+        {% for p in site.pages %}
+        	{% if p.subpage and p.coursepage == false %}
         <li>
         	<a {% if p.url == page.url %}class="active"{% endif %} href="{{ site.baseurl }}{{ p.url }}">
             <div class="img-wrapper">

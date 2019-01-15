@@ -4,6 +4,7 @@ title: Course Schedule
 image: css/nd-logo.png
 home: true
 subpage: true
+coursepage: true
 ---
 
 |  Date  |   Subject   |  Readings   |  Assignments |
