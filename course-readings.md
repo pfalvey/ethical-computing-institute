@@ -9,7 +9,7 @@ coursepage: true
 
 ## Overview of Ethical Frameworks <a name="overview"></a>
 + [A Framework for Making Ethical Decisions](https://www.brown.edu/academics/science-and-technology-studies/framework-making-ethical-decisions "A Framework for Making Ethical Decisions")
-+ [Aristotelean Ethics](https://plato.stanford.edu/entries/ethics-virtue/ "Aristotelean Ethics")
++ [Aristotelean Ethics](https://plato.stanford.edu/entries/aristotle-ethics/ "Aristotelean Ethics")
 + [Confucian Ethics](https://plato.stanford.edu/entries/ethics-chinese/ "Confucian Ethics")
 + [Deontological Ethics](https://plato.stanford.edu/entries/ethics-deontological/ "Deontological Ethics")
 + [Egoist Ethics](https://plato.stanford.edu/entries/egoism/ "Egoist Ethics")
