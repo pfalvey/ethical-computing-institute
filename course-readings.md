@@ -10,10 +10,13 @@ coursepage: true
 ## Overview of Ethical Frameworks <a name="overview"></a>
 + [A Framework for Making Ethical Decisions](https://www.brown.edu/academics/science-and-technology-studies/framework-making-ethical-decisions "A Framework for Making Ethical Decisions")
 + [Aristotelean Ethics](https://plato.stanford.edu/entries/ethics-virtue/ "Aristotelean Ethics")
++ [Confucian Ethics](https://plato.stanford.edu/entries/ethics-chinese/ "Confucian Ethics")
 + [Deontological Ethics](https://plato.stanford.edu/entries/ethics-deontological/ "Deontological Ethics")
 + [Egoist Ethics](https://plato.stanford.edu/entries/egoism/ "Egoist Ethics")
++ [Epicurean Ethics](https://plato.stanford.edu/entries/epicurus/ "Epicurean Ethics")
 + [Ethics of Care](https://plato.stanford.edu/entries/feminism-ethics/ "Ethics of Care")
 + [Legalist Ethics](https://plato.stanford.edu/entries/ethics-chinese/ "Legalist Ethics")
++ [Stoic Ethics](https://plato.stanford.edu/entries/stoicism/ "Stoic Ethics")
 + [Utilitarian Ethics](https://plato.stanford.edu/entries/utilitarianism-history/ "Utilitarian Ethics")
 + [Optional: Seven Themes of Catholic Social Teaching](http://www.usccb.org/beliefs-and-teachings/what-we-believe/catholic-social-teaching/seven-themes-of-catholic-social-teaching.cfm "Seven Themes of Catholic Social Teaching")
 
